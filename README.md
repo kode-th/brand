@@ -42,3 +42,11 @@ bash scripts/build-logo.sh
 ```
 
 The script exports the PNG files with headless Chromium. By default it uses the Playwright copy in `~/.cache/ms-playwright`. To use a different browser, set `CHROME` to its path.
+
+## License
+
+The logo is not open source. All rights are reserved. Do not use the kode.th name or logo in a way that suggests your work comes from kode.th or is approved by kode.th, unless you have written permission. You can show the unchanged logo to refer to kode.th or its products.
+
+The scripts in `scripts/` use the MIT License. See [LICENSE](./LICENSE) for both licenses.
+
+Copyright © 2026 Pongsakorn Thipayanate
